@@ -1,5 +1,9 @@
 # Speech Censor Bot
 
+![Intro](https://images.app.goo.gl/91z4ewna4yLE7K5D6)
+## Introduction:
+The need for content monitoring has been the prevailing need ever since the birth of the Internet.Extent of Internet censorship varies on a country-to-country basis depending on the propaganda and motto. Majority of the content we refer to, is audio video content. 57% Indians, who are also the biggest audience of [YouTube](https://economictimes.indiatimes.com/industry/media/entertainment/india-is-youtubes-largest-and-fastest-growing-audience-in-the-world-ceo/articleshow/68798915.cms), think content should be monitored for social welfare. On international grounds, in a [2012 Internet Society survey](https://en.wikipedia.org/wiki/Internet_censorship#Internet_Society's_Global_Internet_User_Survey), 71% of respondents agreed that "censorship should exist in some form on the Internet". Recently, the need for such moderation surged as mainstream channels were compelled to showcase political leaders delivering profane words during and post-campaign rallies. 
+
 ## Purpose: 
 To use OpenVINO to deploy a speech censor bot at the edge for censoring unwanted words such as cuss words in video or audio speech.
 ![Methodology](https://github.com/PrashantDandriyal/Speech-Censor-Bot/blob/master/CussWordBot.png)
