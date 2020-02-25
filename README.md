@@ -16,7 +16,8 @@ SOX: [Referene](https://explainshell.com/explain?cmd=sox+-r+48000+-b+16+-e+unsig
 ## Understanding the process
 ![Methodology](https://github.com/PrashantDandriyal/Speech-Censor-Bot/blob/master/CussWordBot.png)
 
-##Results
+## Results
+
 [![Actual Clip](https://i.imgur.com/JnAamnUm.png)](https://youtu.be/FYM8NWKDqMU)
 [![Actual Clip](https://i.imgur.com/LowQIgsm.png)](https://youtu.be/FYM8NWKDqMU)
 
