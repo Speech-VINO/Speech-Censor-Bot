@@ -11,7 +11,7 @@ To use OpenVINO to deploy a speech censor bot at the edge for censoring unwanted
 ## Installation
 
 ### Dependencies
-SOX: [Referene](https://explainshell.com/explain?cmd=sox+-r+48000+-b+16+-e+unsigned-integer+IMG_5367.raw+image.ogg+)
+SOX: [Reference](https://explainshell.com/explain?cmd=sox+-r+48000+-b+16+-e+unsigned-integer+IMG_5367.raw+image.ogg+)
 
 ## Understanding the process
 ![Methodology](https://github.com/PrashantDandriyal/Speech-Censor-Bot/blob/master/CussWordBot.png)
