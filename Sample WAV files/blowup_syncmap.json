@@ -1,0 +1,365 @@
+{
+  "transcript": "IS IT TRUE THAT THERE IS A PLACE IN A MAN'S HEAD EFFICIENCY WILL BLOW UP\r\n",
+  "words": [
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 0.2,
+      "endOffset": 2,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "z_E"
+        }
+      ],
+      "start": 0.0,
+      "startOffset": 0,
+      "word": "IS"
+    },
+    {
+      "alignedWord": "it",
+      "case": "success",
+      "end": 0.31,
+      "endOffset": 5,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.03,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.2,
+      "startOffset": 3,
+      "word": "IT"
+    },
+    {
+      "alignedWord": "true",
+      "case": "success",
+      "end": 0.8,
+      "endOffset": 10,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "t_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "r_I"
+        },
+        {
+          "duration": 0.2,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.36,
+      "startOffset": 6,
+      "word": "TRUE"
+    },
+    {
+      "alignedWord": "that",
+      "case": "success",
+      "end": 1.2000000000000002,
+      "endOffset": 15,
+      "phones": [
+        {
+          "duration": 0.13,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.15,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "t_E"
+        }
+      ],
+      "start": 0.81,
+      "startOffset": 11,
+      "word": "THAT"
+    },
+    {
+      "alignedWord": "there",
+      "case": "success",
+      "end": 1.44,
+      "endOffset": 21,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "dh_B"
+        },
+        {
+          "duration": 0.11,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "r_E"
+        }
+      ],
+      "start": 1.2,
+      "startOffset": 16,
+      "word": "THERE"
+    },
+    {
+      "alignedWord": "is",
+      "case": "success",
+      "end": 1.5699999999999998,
+      "endOffset": 24,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 1.44,
+      "startOffset": 22,
+      "word": "IS"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 1.6600000000000001,
+      "endOffset": 26,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 1.57,
+      "startOffset": 25,
+      "word": "A"
+    },
+    {
+      "alignedWord": "place",
+      "case": "success",
+      "end": 2.01,
+      "endOffset": 32,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "p_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ey_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "s_E"
+        }
+      ],
+      "start": 1.67,
+      "startOffset": 27,
+      "word": "PLACE"
+    },
+    {
+      "alignedWord": "in",
+      "case": "success",
+      "end": 2.1399999999999997,
+      "endOffset": 35,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "n_E"
+        }
+      ],
+      "start": 2.01,
+      "startOffset": 33,
+      "word": "IN"
+    },
+    {
+      "alignedWord": "a",
+      "case": "success",
+      "end": 2.2,
+      "endOffset": 37,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "ah_S"
+        }
+      ],
+      "start": 2.14,
+      "startOffset": 36,
+      "word": "A"
+    },
+    {
+      "alignedWord": "man's",
+      "case": "success",
+      "end": 2.62,
+      "endOffset": 43,
+      "phones": [
+        {
+          "duration": 0.09,
+          "phone": "m_B"
+        },
+        {
+          "duration": 0.14,
+          "phone": "ae_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.07,
+          "phone": "z_E"
+        }
+      ],
+      "start": 2.2,
+      "startOffset": 38,
+      "word": "MAN'S"
+    },
+    {
+      "alignedWord": "head",
+      "case": "success",
+      "end": 2.87,
+      "endOffset": 48,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "eh_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "d_E"
+        }
+      ],
+      "start": 2.62,
+      "startOffset": 44,
+      "word": "HEAD"
+    },
+    {
+      "alignedWord": "efficiency",
+      "case": "success",
+      "end": 3.84,
+      "endOffset": 59,
+      "phones": [
+        {
+          "duration": 0.17,
+          "phone": "ih_B"
+        },
+        {
+          "duration": 0.1,
+          "phone": "f_I"
+        },
+        {
+          "duration": 0.11,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.17,
+          "phone": "sh_I"
+        },
+        {
+          "duration": 0.06,
+          "phone": "ah_I"
+        },
+        {
+          "duration": 0.05,
+          "phone": "n_I"
+        },
+        {
+          "duration": 0.13,
+          "phone": "s_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "iy_E"
+        }
+      ],
+      "start": 2.96,
+      "startOffset": 49,
+      "word": "EFFICIENCY"
+    },
+    {
+      "alignedWord": "will",
+      "case": "success",
+      "end": 4.2299999999999995,
+      "endOffset": 64,
+      "phones": [
+        {
+          "duration": 0.08,
+          "phone": "w_B"
+        },
+        {
+          "duration": 0.05,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.08,
+          "phone": "l_E"
+        }
+      ],
+      "start": 4.02,
+      "startOffset": 60,
+      "word": "WILL"
+    },
+    {
+      "alignedWord": "blow",
+      "case": "success",
+      "end": 4.5600000000000005,
+      "endOffset": 69,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "b_B"
+        },
+        {
+          "duration": 0.09,
+          "phone": "l_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ow_E"
+        }
+      ],
+      "start": 4.24,
+      "startOffset": 65,
+      "word": "BLOW"
+    },
+    {
+      "alignedWord": "up",
+      "case": "success",
+      "end": 4.92,
+      "endOffset": 72,
+      "phones": [
+        {
+          "duration": 0.11,
+          "phone": "ah_B"
+        },
+        {
+          "duration": 0.25,
+          "phone": "p_E"
+        }
+      ],
+      "start": 4.56,
+      "startOffset": 70,
+      "word": "UP"
+    }
+  ]
+}

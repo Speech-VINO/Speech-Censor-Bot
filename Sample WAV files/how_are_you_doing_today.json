@@ -1,0 +1,89 @@
+{
+  "transcript": "How are you doing",
+  "words": [
+    {
+      "alignedWord": "how",
+      "case": "success",
+      "end": 0.58,
+      "endOffset": 3,
+      "phones": [
+        {
+          "duration": 0.15,
+          "phone": "hh_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "aw_E"
+        }
+      ],
+      "start": 0.35,
+      "startOffset": 0,
+      "word": "How"
+    },
+    {
+      "alignedWord": "are",
+      "case": "success",
+      "end": 0.72,
+      "endOffset": 7,
+      "phones": [
+        {
+          "duration": 0.06,
+          "phone": "aa_B"
+        },
+        {
+          "duration": 0.08,
+          "phone": "r_E"
+        }
+      ],
+      "start": 0.58,
+      "startOffset": 4,
+      "word": "are"
+    },
+    {
+      "alignedWord": "you",
+      "case": "success",
+      "end": 0.83,
+      "endOffset": 11,
+      "phones": [
+        {
+          "duration": 0.04,
+          "phone": "y_B"
+        },
+        {
+          "duration": 0.07,
+          "phone": "uw_E"
+        }
+      ],
+      "start": 0.72,
+      "startOffset": 8,
+      "word": "you"
+    },
+    {
+      "alignedWord": "doing",
+      "case": "success",
+      "end": 1.17,
+      "endOffset": 17,
+      "phones": [
+        {
+          "duration": 0.07,
+          "phone": "d_B"
+        },
+        {
+          "duration": 0.06,
+          "phone": "uw_I"
+        },
+        {
+          "duration": 0.09,
+          "phone": "ih_I"
+        },
+        {
+          "duration": 0.12,
+          "phone": "ng_E"
+        }
+      ],
+      "start": 0.83,
+      "startOffset": 12,
+      "word": "doing"
+    }
+  ]
+}
